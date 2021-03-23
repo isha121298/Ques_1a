@@ -18,4 +18,4 @@ Resources:
 -Structure in C: you should know in depth
 
 Solutions:
-[Isha Satapathy-264673]()
+[Isha Satapathy-264673](https://github.com/isha121298/Ques_1a.git)
